@@ -6,7 +6,7 @@ This bot works by basically taking the top 3 comments of an received instagram r
 
 ### **1. Clone the repository**
 - You can do this by either clicking on the Code button on github and clicking "download ZIP"
-- Or you can use git CLI and just run `git clone https://github.com/siddiqui-ayan/auto-reel-replier`
+
 
 ### **2. Prerequisites**
 - After you have successfully clone the github repo. You will need to setup 2 things
